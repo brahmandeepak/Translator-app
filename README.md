@@ -14,13 +14,14 @@
 4. Copy-text icon.
 5. Animation-> Floating
 
+---
 
 ### Tech Stack used : -     
 -JavaScript      
 -HTML      
 -CSS      
 
-
+---
 
 ### Netlify/Site : -     
 
