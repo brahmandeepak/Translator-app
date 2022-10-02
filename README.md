@@ -12,3 +12,9 @@
 3. Text-to-speech functionality.
 4. Copy-text icon.
 5. Animation-> Floating
+
+
+### Tech Stack used : -     
+-JavaScript
+-HTML
+-CSS
